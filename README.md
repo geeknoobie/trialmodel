@@ -1,1 +1,1 @@
-# trialmodel this is a tril repository for model storage in github
+# trialmodel this is a trial repository for model storage in github
